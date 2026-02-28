@@ -1,5 +1,5 @@
 # todo_list
-This is a simple to-do list application built using Flask, a lightweight web framework for Python. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations and serves as an introductory example of how to create a web application with Flask.
+A lightweight task management application built with Flask demonstrating CRUD operations and RESTful design principles. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations and serves as an introductory example of how to create a web application with Flask.
 
 Features
 Add Tasks: Users can add new tasks to their to-do list.
